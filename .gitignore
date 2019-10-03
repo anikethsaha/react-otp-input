@@ -7,4 +7,6 @@ node_modules
 
 
 # docz
-.docz
+.docz/.cache
+.docz/node_modules
+.docz/src
